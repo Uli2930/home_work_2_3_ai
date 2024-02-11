@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         FirstFragment firstFragment = new FirstFragment();
         getSupportFragmentManager().beginTransaction()
-                .replace(R.id.conteiner, firstFragment).commit();
+                .replace(R.id.container, firstFragment).commit();
     }
 }
