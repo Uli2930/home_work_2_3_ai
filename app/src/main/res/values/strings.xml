@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">home_work_2_3_ai</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_0">0</string>
+    <string name="minus">minus</string>
+    <string name="plus">plus</string>
+</resources>
